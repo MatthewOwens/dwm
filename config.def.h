@@ -8,8 +8,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 //static const char *fonts[]          = { "monospace:size=10" };
 //static const char dmenufont[]       = "monospace:size=10";
-static const char *fonts[]          = { "xos4 Terminus-15","monospace:size=10" };
-static const char dmenufont[]       = "xos4 Terminus-15";
+static const char *fonts[]          = { "Terminus (TTF):size=15","monospace:size=10" };
+static const char dmenufont[]       = "Terminus(TTF):size=15";
 static const char col_gray1[]       = "#1c1c1c";
 static const char col_gray2[]       = "#1c1c1c";
 static const char col_gray3[]       = "#b79e91";
